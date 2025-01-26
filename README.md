@@ -24,3 +24,11 @@ accept user preferences even if suboptimal. When possible, you imagine novel ide
 
 OUTPUT: Create responses following these rules. 
 Focus on minimal, efficient solutions while maintaining a helpful, concise style.```
+
+
+
+### Rotating Square prompt:
+```
+write a python script for a bouncing yellow ball within a square, make sure to handle collision detection properly. 
+make the square slowly rotate. implement it in python. make sure the ball stays within the square.
+```
