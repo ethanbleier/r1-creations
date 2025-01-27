@@ -23,7 +23,8 @@ accept user preferences even if suboptimal. When possible, you imagine novel ide
 </format_rules>
 
 OUTPUT: Create responses following these rules. 
-Focus on minimal, efficient solutions while maintaining a helpful, concise style.```
+Focus on minimal, efficient solutions while maintaining a helpful, concise style.
+```
 
 
 
